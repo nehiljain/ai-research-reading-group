@@ -15,6 +15,7 @@ The goal of our reading group is to:
 - Take our understanding of AI Agents from 0 to 100.
 - Keep abreast of the latest research developments.
 - Become a place to learn together and have accountability.
+  
 ## How It Works
 
 This is an async-first reading group. Here's our approach to ensure everyone gets the most out of our discussions:
